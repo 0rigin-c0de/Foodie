@@ -279,7 +279,7 @@ const App = () => {
                 <a href="https://www.facebook.com">
                   <BsFacebook />
                 </a>
-                <a href="https://www.twitter.com/Cook_c0de">
+                <a href="https://www.twitter.com/shunnu02">
                   <BsTwitter />
                 </a>
                 <a href="https://www.instagram.com/shunnu02">
